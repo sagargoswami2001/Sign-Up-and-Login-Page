@@ -1,2 +1,1 @@
-# Sign-Up-and-Login-Page
-Sign Up &amp; Login Page Using HTML &amp; CSS
+# This is a Sign Up & Login Page Using HTML & CSS
